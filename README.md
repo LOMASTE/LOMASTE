@@ -113,13 +113,6 @@
 
 ---
 
-## 🌐 Redes
-
-<p align="center">
-  <a href="https://github.com/LOMASTE"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@lomaste"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
 ---
 
 <h3 align="center">Gracias por pasar por mi perfil ✨</h3>
